@@ -2,6 +2,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
 }
 body{
     font-family: 'Lato'sans-serif;
@@ -37,3 +38,18 @@ nav a{
     font-weight: 700px;
     padding: 15px 35px;
 }
+.header{
+    background-color: #FFF8F3;
+}
+.banner .bean{
+    padding: 30px 30px 30px 150px ;
+    display: flex;
+  
+    
+
+    
+
+
+
+    
+
